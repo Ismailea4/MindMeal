@@ -1,0 +1,61 @@
+Cluster_ID,Cluster_Size,Feature_Type,Rank,Feature_Name,Deviation_from_Average,Cluster_Mean_Value
+0,128,Top,1,RefuseFood_WeightConcern_Often,0.3832347972972973,0.7109375
+0,128,Top,2,Eat_WhenSeeDeliciousFood_Often,0.36972128378378377,0.7109375
+0,128,Top,3,current_city_Mymensingh,0.14632601351351351,0.2578125
+0,128,Top,4,current_city_Khulna,0.12964527027027029,0.234375
+0,128,Top,5,DesireToBuy _FromSnackBarOrCafe_Often,0.11444256756756754,0.546875
+0,128,Top,6,EatLess_AfterOvereating_Often,0.11317567567567566,0.5625
+0,128,Top,7,Days_DissatisfiedWithWeight_No days,0.10557432432432431,0.28125
+0,128,Top,8,Days_FearLosingControlOverEating_No days,0.09311655405405406,0.2890625
+0,128,Top,9,Days_TriedLimitFoodToControlShapeOrWeight_Every day,0.08150337837837837,0.328125
+0,128,Top,10,Days_DesireForFlatStomach_Every day,0.07833614864864866,0.3046875
+0,128,Least,1,RefuseFood_WeightConcern_Seldom,-0.23543074324324326,0.0078125
+0,128,Least,2,Eat_WhenSeeDeliciousFood_Seldom,-0.22867398648648649,0.0078125
+0,128,Least,3,RefuseFood_WeightConcern_Sometimes,-0.19932432432432431,0.0
+0,128,Least,4,Eat_WhenSeeDeliciousFood_Sometimes,-0.19256756756756757,0.0
+0,128,Least,5,current_city_Sylhet,-0.11402027027027026,0.03125
+0,128,Least,6,current_city_Chattogram,-0.10261824324324324,0.015625
+0,128,Least,7,EatMore_WhenSeeOthersEating_Often,-0.10029560810810811,0.2578125
+0,128,Least,8,AvoidEveningEating_ForWeightConcern_Often,-0.09332770270270269,0.234375
+0,128,Least,9,Days_DissatisfiedWithWeight_Every day,-0.08889358108108109,0.1171875
+0,128,Least,10,Days_FearLosingControlOverEating_Every day,-0.08783783783783783,0.125
+1,61,Top,1,RefuseFood_WeightConcern_Sometimes,0.7514953478068231,0.9508196721311475
+1,61,Top,2,Eat_WhenSeeDeliciousFood_Sometimes,0.7418586619406292,0.9344262295081968
+1,61,Top,3,current_city_Rajshahi,0.36004652193176784,0.4918032786885246
+1,61,Top,4,current_city_Rangpur,0.3147430217102348,0.4262295081967213
+1,61,Top,5,Eat_WhenIrritated_Sometimes,0.13380593708462557,0.3770491803278688
+1,61,Top,6,EatLess_AfterOvereating_Seldom,0.12516614975631365,0.32786885245901637
+1,61,Top,7,EatLess_AtMealtime_Seldom,0.12178777137793528,0.32786885245901637
+1,61,Top,8,DesireToBuy _FromSnackBarOrCafe_Seldom,0.12178777137793528,0.32786885245901637
+1,61,Top,9,Current_EducationLevel_Master's degree 1st year,0.11940629153743906,0.29508196721311475
+1,61,Top,10,Days_UncomfortableToSeeOwnBody_13-27 days,0.11652636242800174,0.2786885245901639
+1,61,Least,1,RefuseFood_WeightConcern_Often,-0.3277027027027027,0.0
+1,61,Least,2,Eat_WhenSeeDeliciousFood_Often,-0.3248227735932654,0.01639344262295082
+1,61,Least,3,RefuseFood_WeightConcern_Seldom,-0.24324324324324326,0.0
+1,61,Least,4,Eat_WhenSeeDeliciousFood_Seldom,-0.23648648648648649,0.0
+1,61,Least,5,EatLess_AfterOvereating_Often,-0.18702924235711121,0.26229508196721313
+1,61,Least,6,DesireToBuy _FromSnackBarOrCafe_Often,-0.17013735046521933,0.26229508196721313
+1,61,Least,7,EatMore_IfFoodSmellsOrLooksGood_Seldom,-0.14726406734603453,0.06557377049180328
+1,61,Least,8,current_city_Sylhet,-0.14527027027027026,0.0
+1,61,Least,9,Days_DissatisfiedWithShape_13-27 days,-0.13663048294195834,0.04918032786885246
+1,61,Least,10,current_city_Chattogram,-0.11824324324324324,0.0
+2,107,Top,1,RefuseFood_WeightConcern_Seldom,0.4203081586259156,0.6635514018691588
+2,107,Top,2,Eat_WhenSeeDeliciousFood_Seldom,0.4083733265976256,0.6448598130841121
+2,107,Top,3,current_city_Sylhet,0.21921571103814094,0.3644859813084112
+2,107,Top,4,current_city_Chattogram,0.19016797171002775,0.308411214953271
+2,107,Top,5,EatMore_WhenSeeOthersEating_Often,0.18394796665824698,0.5420560747663551
+2,107,Top,6,AvoidEveningEating_ForWeightConcern_Often,0.17697019449355894,0.5046728971962616
+2,107,Top,7,Days_FearLosingControlOverEating_Every day,0.15164814347057337,0.3644859813084112
+2,107,Top,8,Days_DissatisfiedWithWeight_Every day,0.14905910583480675,0.35514018691588783
+2,107,Top,9,Eat_WhenEmotionallyUpset_Sometimes,0.10649785299318007,0.29906542056074764
+2,107,Top,10,Days_FollowedRulesToControlShapeOrWeight_No days,0.09614170245011364,0.2616822429906542
+2,107,Least,1,RefuseFood_WeightConcern_Often,-0.2716279363475625,0.056074766355140186
+2,107,Least,2,Eat_WhenSeeDeliciousFood_Often,-0.25710406668350594,0.08411214953271028
+2,107,Least,3,Eat_WhenSeeDeliciousFood_Sometimes,-0.19256756756756757,0.0
+2,107,Least,4,RefuseFood_WeightConcern_Sometimes,-0.18997852993180095,0.009345794392523364
+2,107,Least,5,current_city_Rajshahi,-0.12241096236423338,0.009345794392523364
+2,107,Least,6,current_city_Mymensingh,-0.11148648648648649,0.0
+2,107,Least,7,current_city_Rangpur,-0.11148648648648649,0.0
+2,107,Least,8,Days_FollowedRulesToControlShapeOrWeight_Every day,-0.10147764587016923,0.12149532710280374
+2,107,Least,9,Days_ShapeAffectedSelfJudgment_Every day,-0.09573124526395556,0.09345794392523364
+2,107,Least,10,current_city_Khulna,-0.09538393533720636,0.009345794392523364
